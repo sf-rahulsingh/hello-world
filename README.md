@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi I'm Rahul Singh and this is my first github project  
